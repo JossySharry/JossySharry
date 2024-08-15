@@ -5,7 +5,9 @@
 <h2>🌟 Acerca de Mí</h2> 
 </div>
 - 📊 Experiencia:Tengo experiencia en modelado predictivo, análisis estadístico y machine learning.
+
 - 🎓Formación: Data Science, Magister en Gerencia Social, Economista
+  
 - 🌐 Interese: Interesado en la inteligencia artificial, big data, visualización de datos y el desarrollo de soluciones innovadoras que impulsen la toma de decisiones.
 
 
