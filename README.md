@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola! 👋 Soy Jossy Romero</h1>
 </div>
-<div align="center">
+<div >
 <h2>🌟 Acerca de Mí</h2> 
 </div>
 
@@ -12,7 +12,7 @@
 - 🌐 Interese: Interesada en la inteligencia artificial, big data, visualización de datos y el desarrollo de soluciones innovadoras que impulsen la toma de decisiones.
 
 
-<div align="center">
+<div >
 <h2> 🛠 Herramientas y Tecnoloías 💼 (Languages and Tools)</h2> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,7 +32,7 @@
 
 </div>
 
-<div align="center">
+<div >
 <h2> 📚 Aprendizaje Continuo</h2>
 
 Actualmente estoy profundizando en el Análisis de Datos frente al Gen IA, y me mantengo al día con las últimas tendencias en ciencia de datos.
