@@ -9,7 +9,7 @@
 
 - 🎓Formación: Data Science, Magister en Gerencia Social, Economista
   
-- 🌐 Interese: Interesado en la inteligencia artificial, big data, visualización de datos y el desarrollo de soluciones innovadoras que impulsen la toma de decisiones.
+- 🌐 Interese: Interesada en la inteligencia artificial, big data, visualización de datos y el desarrollo de soluciones innovadoras que impulsen la toma de decisiones.
 
 
 <div align="center">
