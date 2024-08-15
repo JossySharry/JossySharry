@@ -4,6 +4,7 @@
 <div align="center">
 <h2>🌟 Acerca de Mí</h2> 
 </div>
+
 - 📊 Experiencia:Tengo experiencia en modelado predictivo, análisis estadístico y machine learning.
 
 - 🎓Formación: Data Science, Magister en Gerencia Social, Economista
@@ -34,7 +35,7 @@
 <div align="center">
 <h2> 📚 Aprendizaje Continuo</h2>
 
-!Actualmente estoy profundizando en el Análisis de Datos frente al Gen IA, y me mantengo al día con las últimas tendencias en ciencia de datos.
+Actualmente estoy profundizando en el Análisis de Datos frente al Gen IA, y me mantengo al día con las últimas tendencias en ciencia de datos.
 
 </div>
 <div align="center">
