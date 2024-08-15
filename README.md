@@ -5,7 +5,7 @@
 <h2>🌟 Acerca de Mí</h2> 
 </div>
 
-- 📊 Experiencia:Tengo experiencia en modelado predictivo, análisis estadístico y machine learning.
+- 📊 Experiencia: Tengo experiencia en modelado predictivo, análisis estadístico y machine learning.
 
 - 🎓Formación: Data Science, Magister en Gerencia Social, Economista
   
