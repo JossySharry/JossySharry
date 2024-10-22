@@ -13,7 +13,7 @@
 
 
 <div >
-<h2> 🛠 Herramientas y Tecnoloías 💼 (Languages and Tools)</h2> 
+<h2> 🛠 Herramientas y Tecnologías 💼 </h2> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
