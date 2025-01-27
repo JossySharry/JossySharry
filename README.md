@@ -1,16 +1,19 @@
 <div align="center">
   <h1>Hola! 👋 Soy Jossy Romero</h1>
 </div>
-<div >
-<h2>🌟 Acerca de Mí</h2> 
-</div>
 
-- 📊 Experiencia: Tengo experiencia en modelado predictivo, análisis estadístico y machine learning.
+Una apasionada de la ciencia de datos con formación en Data Science, una Maestría en Gerencia Social y base como Economista. Mi objetivo es transformar datos en estrategias que generen impacto real, combinando análisis técnico, creatividad y enfoque estratégico.
+ 
+🔍 ¿Qué encontrarás aquí?
 
-- 🎓Formación: Data Science, Magister en Gerencia Social, Economista
-  
-- 🌐 Interese: Interesada en la inteligencia artificial, big data, visualización de datos y el desarrollo de soluciones innovadoras que impulsen la toma de decisiones.
+Este espacio reúne proyectos que reflejan mi experiencia en modelado predictivo, análisis estadístico y machine learning, además de mi interés por la inteligencia artificial, big data y la visualización de datos. Estoy comprometida con el desarrollo de soluciones innovadoras que impulsen la toma de decisiones informadas y escalables.
 
+💻 Habilidades técnicas:
+
+- Análisis de datos con Python (Pandas, Matplotlib, Seaborn).
+- Modelos predictivos (Random Forest, regresión, clustering).
+- Procesos ETL para estructuración de datos.
+- Creación de APIs para soluciones escalables y accesibles.
 
 <div >
 <h2> 🛠 Herramientas y Tecnologías 💼 </h2> 
@@ -35,13 +38,13 @@
 <div >
 <h2> 📚 Aprendizaje Continuo</h2>
 
-Actualmente estoy profundizando en el Análisis de Datos frente al Gen IA, y me mantengo al día con las últimas tendencias en ciencia de datos.
+Actualmente estoy profundizando en el Análisis de Datos, y me mantengo al día con las últimas tendencias en ciencia de datos.
 
 </div>
 <div align="center">
-<h2> 📬 Conéctate Conmigo </h2>
+<h2> Si crees que podría aportar valor a tu equipo de trabajo, ¡contactemos!📬</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossy-romero-villanueva-31b11657/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jossy-romero-data/)
 [![GitHub](https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JossySharry)
 [![Gmail](https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsromero@pucp.pe)
 
