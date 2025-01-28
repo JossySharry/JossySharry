@@ -2,7 +2,7 @@
   <h1>Hola! 👋 Soy Jossy Romero</h1>
 </div>
 
-Soy una apasionada de la **ciencia de datos**, con formación en **Data Science**, una **Maestría en Gerencia Social** y como **Economista**. Lo que me distingue es mi capacidad para combinar un análisis técnico sólido con una visión empática y estratégica, enfocada en crear soluciones que no solo sean efectivas, sino también humanas y sostenibles.  
+Soy una apasionada de la **ciencia de datos**, con formación en **Data Science**, una **Maestría en Gerencia Social** y un título en **Economía**. Lo que me distingue es mi capacidad para combinar un análisis técnico sólido con una visión empática y estratégica, enfocada en crear soluciones que no solo sean efectivas, sino también humanas y sostenibles.  
 
 Estoy convencida de que los datos son más que números: son una herramienta para comprender realidades complejas y generar un impacto significativo.  
 
