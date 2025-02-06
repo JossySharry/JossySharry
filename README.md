@@ -47,7 +47,7 @@ Soy una firme creyente en el aprendizaje constante. Mi formación en gerencia so
 <div align="center">
 <h2> Si crees que podría aportar valor a tu equipo de trabajo, ¡contactemos!📬</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jossy-romero-data/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossy-romero-data/)
 [![GitHub](https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JossySharry)
 [![Gmail](https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsromero@pucp.pe)
 
